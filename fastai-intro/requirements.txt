@@ -1,0 +1,2 @@
+jupyterlab==3.5.2
+RISE==5.7.1
